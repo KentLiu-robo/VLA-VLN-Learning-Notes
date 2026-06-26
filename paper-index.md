@@ -24,6 +24,7 @@
 ## VLN
 
 - Vision-language navigation: a survey and taxonomy
+- [VLN 学习笔记：Awesome Visual-Language-Navigation](./papers/VLN-awesome-survey-notes.md)
 - NaVILA: Legged Robot Vision-Language-Action Model for Navigation
 - MapNav: A Novel Memory Representation via Annotated Semantic Maps for VLM-based VLN
 - OmniVLA: An Omni-Modal Vision-Language-Action Model for Robot Navigation
